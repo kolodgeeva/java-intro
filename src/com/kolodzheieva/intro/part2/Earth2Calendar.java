@@ -1,6 +1,6 @@
 package com.kolodzheieva.intro.part2;
 
-public class Earth2 {
+public class Earth2Calendar {
 
     public static int daysPast(int day, int month, int year) {
         int daysInMonth = 42;

@@ -1,6 +1,6 @@
 package com.kolodzheieva.intro.part2;
 
-public class Trains {
+public class TrainsCollision {
 
     public static boolean isCollisionHappen(double firstSpeed, double secondSpeed) {
         int distance = 10;
