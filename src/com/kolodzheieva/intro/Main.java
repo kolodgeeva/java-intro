@@ -23,8 +23,10 @@ public class Main {
 
         //System.out.println(TrainsCollision.isCollisionHappen(0.7, 1));
 
-        System.out.println(DronsCollision.isCollisionHappen(0, 0, 2, 0, 3, 2));
-        System.out.println(DronsCollision.isCollisionHappen(1, 1, 1, 4,4, 1));
+        //System.out.println(DronsCollision.isCollisionHappen(0, 0, 2, 0, 3, 2));
+        //System.out.println(DronsCollision.isCollisionHappen(1, 1, 1, 4,4, 1));
+
+        System.out.println(Trajectory.distance(7, 1, -6));
     }
 
 }
