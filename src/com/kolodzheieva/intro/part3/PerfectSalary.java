@@ -8,7 +8,7 @@ public class PerfectSalary {
         int amountPerDay = 1;
         int coef = 3;
         int days = 1;
-        while (overallAmount + amountPerDay < maxAmount) {
+        while (overallAmount < maxAmount) {
             days++;
             amountPerDay *= coef;
             overallAmount += amountPerDay;
