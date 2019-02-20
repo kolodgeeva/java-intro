@@ -4,8 +4,8 @@ public class KennedyKiller {
 
     public static void main(String[] args) {
 
-        int[] suspects = {9, 2, 3, 5, 7, 8, 1, 3, 4, 200};
-        int maxProbability = 0;
+        double[] suspects = {0.1, 0, 0.2, 0, 0, 0.5, 0, 0, 0, 0.2};
+        double maxProbability = 0;
         int index = -1;
         for (int i = 0; i < suspects.length; i++) {
             if (suspects[i] > maxProbability) {

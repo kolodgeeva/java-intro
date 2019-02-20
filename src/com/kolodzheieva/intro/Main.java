@@ -37,12 +37,11 @@ public class Main {
         int point = scanner.nextInt();
         DirectionSelector.select(point);*/
 
-        System.out.println(LoadPlatform.canBeLoaded(100, 100, 1000, 1000));
+        /*System.out.println(LoadPlatform.canBeLoaded(100, 100, 1000, 1000));
         System.out.println(LoadPlatform.canBeLoaded(101, 100, 1000, 1000));
         System.out.println(LoadPlatform.canBeLoaded(100, 101, 1000, 1000));
         System.out.println(LoadPlatform.canBeLoaded(100, 100, 1000, 1001));
-        System.out.println(LoadPlatform.canBeLoaded(50, 50, 50, 1000));
-
+        System.out.println(LoadPlatform.canBeLoaded(50, 50, 50, 1000));*/
 
 
     }
