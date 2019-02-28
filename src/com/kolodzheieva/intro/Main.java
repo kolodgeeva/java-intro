@@ -43,7 +43,6 @@ public class Main {
         System.out.println(LoadPlatform.canBeLoaded(100, 100, 1000, 1001));
         System.out.println(LoadPlatform.canBeLoaded(50, 50, 50, 1000));*/
 
-
     }
 
 }
