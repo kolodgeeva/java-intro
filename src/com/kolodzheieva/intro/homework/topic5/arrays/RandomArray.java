@@ -1,4 +1,4 @@
-package com.kolodzheieva.intro.lessons.lesson8;
+package com.kolodzheieva.intro.homework.topic5.arrays;
 
 import java.util.Random;
 
